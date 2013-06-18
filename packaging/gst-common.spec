@@ -13,9 +13,10 @@ Gstreamer Common Files.
 %setup -q
 
 %build
+rm -rf .gitignore
 
 %install
-mkdir %{buildroot}/%{_datadir}/gst-common
+mkdir -p %{buildroot}/%{_datadir}/gst-common
 cp -a . %{buildroot}/%{_datadir}/gst-common
 
 %files
