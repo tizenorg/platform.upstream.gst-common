@@ -1,0 +1,8 @@
+Change-Id: I4c9bfc97fbfcdd17eb2dc3fa2138df35af0da49a
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 10:08:02 -0700
+Reviewed-on: https://review.tizen.org/gerrit/4770
+Project: platform/upstream/gst-common
+Branch: refs/heads/tizen
